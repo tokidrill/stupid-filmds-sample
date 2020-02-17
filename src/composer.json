@@ -1,0 +1,21 @@
+{
+    "name": "tokidrill/filmds-sample",
+    "description": "sample project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuki Sasaki",
+            "email": "tokidrill@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0",
+        "davedevelopment/phpmig": "*",
+        "pimple/pimple": "1.*"
+    },
+
+    "config": {
+        "bin-dir": "bin/"
+    }
+}
